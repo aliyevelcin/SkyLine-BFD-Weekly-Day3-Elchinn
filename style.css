@@ -1,0 +1,154 @@
+body{
+    background-color: #2F302F
+}
+
+.ss {
+    border-radius: 20px;
+}
+
+#after {
+    color: rgb(243, 243, 247);
+    font-family: sans-serif;
+    margin-left: 400px;
+    height: 30px;
+    
+}
+
+.by {
+    color: rgb(247, 4, 4);
+    font-weight: 900px;
+    font-family:  Verdana, Arial, Helvetica, sans-serif;
+    font: 100;
+    margin-left: 400px;
+}
+
+.the{
+    font-family: serif;
+    text-align: justify;
+    color: white;
+    font-size: 15px;
+    width: 500px;
+    margin-left: 400px;
+}
+
+.link:hover {
+    background-color: #2F302F;
+}
+
+.link {
+    cursor: pointer;
+    outline: none;
+    font-family: sans-serif;
+    background-color: #fcfbfa;
+    color: rgb(248, 6, 6);
+    
+    text-decoration: none;
+    font-size: 20px;
+    border-radius: 20px;
+    display: inline-block;
+    font-weight: 1000;
+    margin: 10px;
+    margin-left: 400px; 
+    position: relative;
+    transition: all .3s ease-in;
+    -moz-transition: all .3s ease-in;
+    -webkit-transition: all .3s ease-in;
+    -ms-transition: all .2s ease-in;
+    width:250px;
+    
+    text-align: center;
+    cursor: pointer;
+    border: none;  
+    float:none;
+    padding:15px;
+
+}
+
+.sekil {
+    background: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBA8c-4vccs4DmudglBYn0-4LeyRPi3V22aA&usqp=CAU);
+    background-size: cover;
+    border-radius: 20px;
+    padding: 15px;
+    height: 500px;
+}
+
+.ot {
+    color: white    ;
+    margin-left: 70px;
+    margin-top: 70px;
+}    
+
+.h1 {
+    padding-left: 80px;
+    padding-top: 80px;
+}
+.co {
+    font-family: sans-serif;
+    color: red;
+    font-weight: 1000;
+}
+
+.z1 {
+    margin-left: 30px;
+    border-radius: 15px;
+    box-sizing: border-box;
+}
+
+.z1:hover {
+    border-radius: 15px;
+    -ms-transform: scale(1.2); 
+    -webkit-transform: scale(1.2); 
+    transform: scale(1.2);
+}
+
+.z2 {
+    margin-left: 30px;
+    border-radius: 15px;
+}
+
+.z2:hover{
+    -ms-transform: scale(1.2); 
+    -webkit-transform: scale(1.2); 
+    transform: scale(1.2);
+}
+
+.z3 {
+    margin-left: 30px;
+    border-radius: 15px;
+}
+
+.z3:hover{
+    border-radius: 15px;
+    margin-left: 30px;
+    -ms-transform: scale(1.2); 
+    -webkit-transform: scale(1.2); 
+    transform: scale(1.2);
+}
+
+.z4 {
+    border-radius: 15px;
+    margin-left: 30px;
+}
+
+.z4:hover {
+    -webkit-transform: scale(1.1);
+    -ms-transform: scale(1.1);  
+    -moz-transform: scale(1.1);
+    transform: scale(1.1);
+}
+
+.z5 {
+    margin-left: 30px;
+    border-radius: 15px;
+}
+
+.z5:hover {
+    -ms-transform: scale(1.2); 
+    -webkit-transform: scale(1.2); 
+    transform: scale(1.2);
+}
+
+.uyu {
+    border-radius: 20px;
+    width: 300px;
+}
